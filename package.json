@@ -14,7 +14,15 @@
   "author": "Daniel Batres <danielbatresuser@gmail.com>",
   "license": "MIT",
   "bin": {
-    "random-msg": "./bin/global.js"
+    "random-msg": "bin/global.js"
   },
-  "preferGlobal": true
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielbatres/RandomMessagesNPMCourse.git"
+  },
+  "bugs": {
+    "url": "https://github.com/danielbatres/RandomMessagesNPMCourse/issues"
+  },
+  "homepage": "https://github.com/danielbatres/RandomMessagesNPMCourse#readme"
 }
